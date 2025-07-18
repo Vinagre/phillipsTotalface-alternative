@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+ 
 # Manufatura Aditiva para Resiliência em Saúde  
 # Additive Manufacturing for Healthcare Resilience
 
@@ -53,4 +53,4 @@ CC BY-SA 4.0. Consulte LICENSE / See LICENSE
 
 Repositório bilíngue. Para informações detalhadas, consultar cada subdiretório.  
 Bilingual repository. For detailed information, check each subdirectory.
->>>>>>> 6bde1cddfed8a2dfc737bdeb98dc2034e63c706f
+ 
